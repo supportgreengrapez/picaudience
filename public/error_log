@@ -1,0 +1,1 @@
+[11-Mar-2021 11:18:01 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ClientController::contact() in /home/byowmbia/picaudience/app/Http/Controllers/ClientController.php on line 55
